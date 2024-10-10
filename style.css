@@ -51,6 +51,7 @@ form input {
   border: 1px solid gray;
   width: 100%;
   font-size: 18px;
+  border-left: none;
 }
 form img {
   width: 63px;
@@ -112,5 +113,8 @@ a{
   }
    .last-div{
     font-size: 16px;
+   }
+   a{
+    font-size: 13px;
    }
 }
